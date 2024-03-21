@@ -1,6 +1,6 @@
 <main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" id="wp--skip-link--target">
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="" class="alignwide wp-block-post-title">mpy固件编译成功</h1>
-![image](1.png)
+![eqlUI.png](https://i0.imgs.ovh/2024/03/20/eqlUI.png)
 <hr class="wp-block-separator has-css-opacity alignwide is-style-wide">
 </div>
 <div style="height: 32px;" aria-hidden="true" class="wp-block-spacer"></div>
