@@ -1,6 +1,6 @@
 <main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" id="wp--skip-link--target">
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="" class="alignwide wp-block-post-title">mpy固件编译成功</h1>
-<figure style="" class="alignwide wp-block-post-featured-image"><img width="830" height="175" src="./mpy固件编译成功 – louis16s_files/640.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit: cover;" decoding="async" fetchpriority="high" srcset="http://192.168.5.111/wp-content/uploads/2023/01/640.png 830w, http://192.168.5.111/wp-content/uploads/2023/01/640-300x63.png 300w, https://i0.imgs.ovh/2024/03/20/eqlUI.png 768w" sizes="(max-width: 830px) 100vw, 830px"></figure>
+<figure style="" class="alignwide wp-block-post-featured-image"><img width="830" height="175" src="./mpy固件编译成功 – louis16s_files/640.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit: cover;" decoding="async" fetchpriority="high" srcset="http://192.168.5.111/wp-content/uploads/2023/01/640.png 830w, http://192.168.5.111/wp-content/uploads/2023/01/640-300x63.png 300w, https://github.com/louis16s/ESP32-C3-mpy/blob/main/1.png 768w" sizes="(max-width: 830px) 100vw, 830px"></figure>
 <hr class="wp-block-separator has-css-opacity alignwide is-style-wide">
 </div>
 <div style="height: 32px;" aria-hidden="true" class="wp-block-spacer"></div>
